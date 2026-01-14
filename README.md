@@ -42,5 +42,5 @@ The app automatically prompts users to enable required permissions.
 
 <img width="280" height="607" alt="Screenshot_20240607-123806_Pixel Launcher" src="https://github.com/user-attachments/assets/cff07512-225c-4fad-862d-ea50e676da5d" />
 
-<img width="98" height="213" alt="Screenshot_20240601-142321_DeviceUsuage" src="https://github.com/user-attachments/assets/0cd2a081-8cfe-460f-824c-fdd94d432e42" />
+<img width="280" height="607" alt="Screenshot_20240601-142321_DeviceUsuage" src="https://github.com/user-attachments/assets/0cd2a081-8cfe-460f-824c-fdd94d432e42" />
 
