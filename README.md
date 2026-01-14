@@ -37,5 +37,10 @@ The app automatically prompts users to enable required permissions.
 - Some data usage stats require system permissions on certain OEM ROMs
 - Values may vary depending on Android version
 
-## :scroll: License
-MIT License
+<img width="280" height="607" alt="deviceusage" src="https://github.com/user-attachments/assets/1a40520c-8b16-4e5f-8542-c9324882ce63" />
+
+
+<img width="280" height="607" alt="Screenshot_20240607-123806_Pixel Launcher" src="https://github.com/user-attachments/assets/cff07512-225c-4fad-862d-ea50e676da5d" />
+
+<img width="98" height="213" alt="Screenshot_20240601-142321_DeviceUsuage" src="https://github.com/user-attachments/assets/0cd2a081-8cfe-460f-824c-fdd94d432e42" />
+
